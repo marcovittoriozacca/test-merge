@@ -4,3 +4,8 @@ const arr = [1,2,3,4,5,6,7,8,9,10];
 
 
 const test3="importante qui do"
+const ciao4=' 0';
+const ciao5=' 0';
+const ciao=' 0';
+const ciao654=' 0';
+const ciao65342=' 0';
