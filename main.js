@@ -8,4 +8,6 @@ const variabile3="5";
 
 
 document.getElementById("test").innerHTML = variabile
+document.getElementsByTagName("h2")[0].innerHTML = variabile1
+
 
