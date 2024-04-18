@@ -9,4 +9,3 @@ const ciao5=' 0';
 const ciao=' 0';
 const ciao654=' 0';
 const ciao65342=' 0';
-const ddsaddsad = 32133;
